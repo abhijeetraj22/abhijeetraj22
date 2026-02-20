@@ -52,13 +52,13 @@
 ---
 
 # 🏆 Featured Projects
-Below are the **top projects selected from your GitHub repositories**, each analyzed and summarized with icons & direct links.
+Below are the **top projects selected from my GitHub repositories**, each analyzed and summarized with direct links.
 
 ---
 # 🧩 Azure Projects
 ## 📌 Azure Data Factory ETL Pipeline
 
-🔗 Repo: [https://github.com/abhijeetraj22/AzureDataFactortETL-Project](https://github.com/abhijeetraj22/AzureDataFactortETL-Project)
+🔗 Repo: [https://github.com/abhijeetraj22/AzureDataFactortETL-Project](https://github.com/abhijeetraj22/AzureDataFactortETL-Project)  
 🛠 Azure Data Factory • SQL • Data Lake • ETL
 
 * Automated data ingestion & transformation
@@ -73,7 +73,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## ⚡ Azure Data Pipeline – ADF + Databricks + Synapse
 
-🔗 Repo: [https://github.com/abhijeetraj22/Azure-Data-Pipeline-with-ADF-Databricks-Synapse](https://github.com/abhijeetraj22/Azure-Data-Pipeline-with-ADF-Databricks-Synapse)
+🔗 Repo: [https://github.com/abhijeetraj22/Azure-Data-Pipeline-with-ADF-Databricks-Synapse](https://github.com/abhijeetraj22/Azure-Data-Pipeline-with-ADF-Databricks-Synapse)  
 🛠 ADF • Databricks • Synapse • Data Lake
 
 * Medallion architecture (Bronze → Silver → Gold)
@@ -85,7 +85,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🤖 Microsoft Learn AI Skills Challenge
 
-🔗 Repo: [https://github.com/abhijeetraj22/Microsoft-Learn-AI-Skills-Challenge](https://github.com/abhijeetraj22/Microsoft-Learn-AI-Skills-Challenge)
+🔗 Repo: [https://github.com/abhijeetraj22/Microsoft-Learn-AI-Skills-Challenge](https://github.com/abhijeetraj22/Microsoft-Learn-AI-Skills-Challenge)  
 🛠 Azure AI Studio • Cognitive Services
 
 * NLP & Computer Vision demos
@@ -98,7 +98,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🧾 PDF Processing Automation – Ballard Spahr
 
-🔗 Repo: [https://github.com/abhijeetraj22/PDF-Processing-Automation-Ballard-Spahr-](https://github.com/abhijeetraj22/PDF-Processing-Automation-Ballard-Spahr-)
+🔗 Repo: [https://github.com/abhijeetraj22/PDF-Processing-Automation-Ballard-Spahr-](https://github.com/abhijeetraj22/PDF-Processing-Automation-Ballard-Spahr-)  
 🛠 Python • SQL Server • PDF Libraries
 
 * Automated pipeline for merging, renaming & organizing PDFs
@@ -110,7 +110,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🏫 OMK CBSE Result Converter – Python GUI (Tkinter)
 
-🔗 Repo: [https://github.com/abhijeetraj22/OMK_CBSE_RESULT](https://github.com/abhijeetraj22/OMK_CBSE_RESULT)
+🔗 Repo: [https://github.com/abhijeetraj22/OMK_CBSE_RESULT](https://github.com/abhijeetraj22/OMK_CBSE_RESULT)  
 🛠 Python • Tkinter • Pandas • Excel Automation
 
 * Convert CBSE raw TXT → formatted Excel
@@ -122,7 +122,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## ⏱️ OMK Attendance GUI – Excel Attendance Automation
 
-🔗 Repo: [https://github.com/abhijeetraj22/OMK_ATTENDANCE_GUI](https://github.com/abhijeetraj22/OMK_ATTENDANCE_GUI)
+🔗 Repo: [https://github.com/abhijeetraj22/OMK_ATTENDANCE_GUI](https://github.com/abhijeetraj22/OMK_ATTENDANCE_GUI)  
 🛠 Python • Tkinter • Pandas
 
 * Admin + Teacher modules
@@ -134,7 +134,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 📤 SSIS - Excel/CSV to SQL Import Automation
 
-🔗 Repo: [https://github.com/abhijeetraj22/Excel-CSV-to-SQL-Import-Automation](https://github.com/abhijeetraj22/Excel-CSV-to-SQL-Import-Automation)
+🔗 Repo: [https://github.com/abhijeetraj22/Excel-CSV-to-SQL-Import-Automation](https://github.com/abhijeetraj22/Excel-CSV-to-SQL-Import-Automation)  
 🛠 Python • SQL Server Agent
 
 * Automated Excel/CSV → SQL loading
@@ -146,7 +146,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🧪 Quiz System – Python Application
 
-🔗 Repo: [https://github.com/abhijeetraj22/Quiz_Systems](https://github.com/abhijeetraj22/Quiz_Systems)
+🔗 Repo: [https://github.com/abhijeetraj22/Quiz_Systems](https://github.com/abhijeetraj22/Quiz_Systems)  
 🛠 Python • File & DB Storage
 
 * Console-based quiz engine
@@ -157,7 +157,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🌍 India & World COVID-19 Data Analytics
 
-🔗 Repo: [https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict](https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict)
+🔗 Repo: [https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict](https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict)  
 🛠 Python • Pandas • Matplotlib
 
 * Multi-country trend comparisons
@@ -170,7 +170,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 📘 Facebook Page Data Analyzer
 
-🔗 Repo: [https://github.com/abhijeetraj22/FB_Page-Decoder-Data_Analysis](https://github.com/abhijeetraj22/FB_Page-Decoder-Data_Analysis)
+🔗 Repo: [https://github.com/abhijeetraj22/FB_Page-Decoder-Data_Analysis](https://github.com/abhijeetraj22/FB_Page-Decoder-Data_Analysis)  
 🛠 Python • Web Scraping • Pandas
 
 * Extracts Facebook page metrics
@@ -183,7 +183,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🔬 Research – COVID 19 India & Iran
 
-🔗 Repo: [https://github.com/abhijeetraj22/Research-about-covid19-in-India-and-Iran2020](https://github.com/abhijeetraj22/Research-about-covid19-in-India-and-Iran2020)
+🔗 Repo: [https://github.com/abhijeetraj22/Research-about-covid19-in-India-and-Iran2020](https://github.com/abhijeetraj22/Research-about-covid19-in-India-and-Iran2020)  
 🛠 Python • Data Science
 
 * Side-by-side statistical comparison
@@ -196,7 +196,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 📱 TSF GRIP – IoT & Device Data Projects
 
-🔗 Repo: [https://github.com/abhijeetraj22/TSF-GRIP_IOT_Tasks](https://github.com/abhijeetraj22/TSF-GRIP_IOT_Tasks)
+🔗 Repo: [https://github.com/abhijeetraj22/TSF-GRIP_IOT_Tasks](https://github.com/abhijeetraj22/TSF-GRIP_IOT_Tasks)  
 🛠 IoT Concepts • Python
 
 * Real-time sensor logical tasks
@@ -207,7 +207,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🎓 TSF GRIP – Machine Learning Tasks
 
-🔗 Repo: [https://github.com/abhijeetraj22/TSF-GRIP_Tasks](https://github.com/abhijeetraj22/TSF-GRIP_Tasks)
+🔗 Repo: [https://github.com/abhijeetraj22/TSF-GRIP_Tasks](https://github.com/abhijeetraj22/TSF-GRIP_Tasks)  
 🛠 Python • ML Basics
 
 * Feature engineering
@@ -218,7 +218,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 👁 OpenCV Computer Vision
 
-🔗 Repo: [https://github.com/abhijeetraj22/ShapeAI_ComputerVision_with_OpenCV](https://github.com/abhijeetraj22/ShapeAI_ComputerVision_with_OpenCV)
+🔗 Repo: [https://github.com/abhijeetraj22/ShapeAI_ComputerVision_with_OpenCV](https://github.com/abhijeetraj22/ShapeAI_ComputerVision_with_OpenCV)  
 🛠 OpenCV • Image Processing
 
 * Edge detection
@@ -229,7 +229,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🤖 ShapeAI Deep Learning
 
-🔗 Repo: [https://github.com/abhijeetraj22/ShapeAI_DL](https://github.com/abhijeetraj22/ShapeAI_DL)
+🔗 Repo: [https://github.com/abhijeetraj22/ShapeAI_DL](https://github.com/abhijeetraj22/ShapeAI_DL)  
 🛠 Keras • DNN
 
 * Intro deep learning models
@@ -240,7 +240,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 📊 Power BI + Tableau Analytics Project
 
-🔗 Repo: [https://github.com/abhijeetraj22/Jobaaj-Data-Tableau-PowerBI-workshop](https://github.com/abhijeetraj22/Jobaaj-Data-Tableau-PowerBI-workshop)
+🔗 Repo: [https://github.com/abhijeetraj22/Jobaaj-Data-Tableau-PowerBI-workshop](https://github.com/abhijeetraj22/Jobaaj-Data-Tableau-PowerBI-workshop)  
 🛠 Power BI • Tableau • DAX
 
 * Business dashboards
@@ -251,7 +251,7 @@ Below are the **top projects selected from your GitHub repositories**, each anal
 
 ## 🔐 Cybersecurity Demonstration Project
 
-🔗 Repo: [https://github.com/abhijeetraj22/ShapeAI_CyberSecurity_Project](https://github.com/abhijeetraj22/ShapeAI_CyberSecurity_Project)
+🔗 Repo: [https://github.com/abhijeetraj22/ShapeAI_CyberSecurity_Project](https://github.com/abhijeetraj22/ShapeAI_CyberSecurity_Project)  
 🛠 Cybersec • Python
 
 * Demonstrates password strength checks
