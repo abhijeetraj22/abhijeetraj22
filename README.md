@@ -267,6 +267,9 @@ Below are the **top projects selected from my GitHub repositories**, each analyz
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhijeetraj22&show_icons=true" />
 </p>
 <p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abhijeetraj22&layout=compact&theme=dark" />
+</p>
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetraj22&layout=compact" />
 </p>
 
