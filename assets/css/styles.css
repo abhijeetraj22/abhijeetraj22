@@ -755,3 +755,10 @@ textarea:focus {
     grid-template-columns: 1fr;
   }
 }
+
+.stats-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 18px;
+}
