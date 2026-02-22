@@ -748,3 +748,10 @@ textarea:focus {
 .match-grid select {
   width: 100%;
 }
+
+/* Mobile view – Contact section single column */
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
